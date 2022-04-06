@@ -1,0 +1,12 @@
+<GetInform>
+	<UseGZIPBinary>1</UseGZIPBinary>
+	<ns0:getReferenceSPV4664 xmlns:ns0="http://service.siw.pktbcki.rzd/">
+		<ns0:ReferenceSPV4664Request>
+			<idUser>0</idUser>
+			<vagons>
+				<vagon>52944741</vagon>
+				<vagon>60279551</vagon>
+			</vagons>
+		</ns0:ReferenceSPV4664Request>
+	</ns0:getReferenceSPV4664>
+</GetInform>
